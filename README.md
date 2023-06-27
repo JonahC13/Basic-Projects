@@ -1,2 +1,3 @@
 # Basic-Projects
-Miscellaneous Creations 
+Miscellaneous Creations
+No specific goals or aligned areas of work, coded just to code
